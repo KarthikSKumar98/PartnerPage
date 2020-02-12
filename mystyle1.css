@@ -1,0 +1,67 @@
+body{
+	background-color: black;
+}
+
+h1 {
+	color: #FFF598;
+	margin-left: 20px;
+font-size: 40px;
+
+}
+
+h2 {
+	color: white;
+	margin-left: 20px;
+  width: 704px;
+  height: 314px;
+  left: 278px;
+  top: 3765px;
+
+font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 25px;
+}
+
+.dickey {
+  width: 223px;
+  height: 153px;
+  left: 305px;
+  top: 3750px;
+}
+
+.chickpeas{
+  width: 166px;
+  height: 114px;
+  left: 573px;
+  top: 3769px;
+}
+
+.image7 {
+  width: 134px;
+  height: 134px;
+  left: 821px;
+  top: 3760px;
+}
+
+.image6 {
+  width: 206px;
+  height: 103px;
+  left: 293px;
+  top: 4026px;
+}
+
+.image8 {
+  width: 206px;
+  height: 103px;
+  left: 293px;
+  top: 4026px;
+}
+
+.image9 {
+  width: 195px;
+  height: 42px;
+  left: 802px;
+  top: 4056px;
+}
