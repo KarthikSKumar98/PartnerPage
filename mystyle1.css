@@ -1,67 +1,128 @@
 body{
-	background-color: black;
+  position: absolute;
+  width: 1281px;
+  height: 5993px;
+  left: -7px;
+  top: 0px;
+  background: #070707;
 }
 
 h1 {
 	color: #FFF598;
 	margin-left: 20px;
-font-size: 40px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 72px;
+  
+  position: absolute;
+  width: 234px;
+  height: 76px;
+  left: 294px;
+  top: 3649px;
+  background: #070707;
 
+}
+
+header {
+  position: absolute;
+  width: 1281px;
+  height: 5993px;
+  left: -7px;
+  top: 0px;
+  background: #070707;
 }
 
 h2 {
-	color: white;
-	margin-left: 20px;
+	position: absolute;
   width: 704px;
   height: 314px;
   left: 278px;
-  top: 3765px;
+  top: 3751px;
 
-font-family: Muli;
-font-style: normal;
-font-weight: normal;
-font-size: 20px;
-line-height: 25px;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #FFFFFF;
 }
 
 .dickey {
-  width: 223px;
-  height: 153px;
-  left: 305px;
-  top: 3750px;
+  position: absolute;
+  width: 252px;
+  height: 173px;
+  left: 292px;
+  top: 3851px;
 }
 
 .chickpeas{
-  width: 166px;
-  height: 114px;
-  left: 573px;
-  top: 3769px;
+  position: absolute;
+  width: 187px;
+  height: 128px;
+  left: 595px;
+  top: 3873px;
 }
 
-.image7 {
-  width: 134px;
-  height: 134px;
-  left: 821px;
-  top: 3760px;
+.davisCoop {
+  position: absolute;
+  width: 152px;
+  height: 152px;
+  left: 828px;
+  top: 3862px;
 }
 
-.image6 {
-  width: 206px;
-  height: 103px;
-  left: 293px;
-  top: 4026px;
+.crustBaking {
+  position: absolute;
+  width: 233px;
+  height: 116px;
+  left: 278px;
+  top: 4114px;
 }
 
-.image8 {
-  width: 206px;
-  height: 103px;
-  left: 293px;
-  top: 4026px;
+.brewCafe {
+  position: absolute;
+  width: 190px;
+  height: 143px;
+  left: 587px;
+  top: 4090px;
 }
 
-.image9 {
-  width: 195px;
-  height: 42px;
-  left: 802px;
-  top: 4056px;
+.villageBakery {
+  position: absolute;
+  width: 249px;
+  height: 53px;
+  left: 845px;
+  top: 4135px;
+}
+
+.line {
+  position: absolute;
+  width: 4561px;
+  height: 0px;
+  left: 153px;
+  top: 749px;
+  border: 3px solid #FFFFFF;
+  transform: rotate(90.01deg);
+}
+
+.circleBackground {
+  position: absolute;
+  width: 24px;
+  height: 25px;
+  left: 142px;
+  top: 3672px;
+  background: #070707;
+}
+
+.circle {
+  position: absolute;
+  width: 13.2px;
+  height: 13.75px;
+  left: 147px;
+  top: 3716px;
+  border-radius: 50%;
+  background: #FFFFFF;
 }
